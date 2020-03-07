@@ -4,5 +4,8 @@ This is a project for a vehicles rental company mangement system in Java
 * Frontend: Java (Swing)
 * Database: MySQL
 
-# Home screen screenshot
+# HomeScreen screenshot
 ![](Images/LabHomeScreen.png)
+
+# ControlPanel screenshot
+![](Images/LabControlPanel.png)
