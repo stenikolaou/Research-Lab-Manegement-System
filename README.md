@@ -5,4 +5,4 @@ This is a project for a vehicles rental company mangement system in Java
 * Database: MySQL
 
 # Home screen screenshot
-![](LabHomeScreen.png)
+![](Images/LabHomeScreen.png)
